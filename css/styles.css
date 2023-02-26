@@ -1,0 +1,231 @@
+body {
+  background-color: #e5e5e5;
+  padding: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+  width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.main-content {
+  padding-top: 100px;
+  padding-left: 88px;
+  padding-right: 200px;
+  padding-bottom: 100px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+
+.about-me {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.projects {
+  margin-top: 64px;
+  margin-bottom: 52px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 0;
+}
+
+ol {
+  padding-top: 0;
+  padding-left: 16px;
+}
+
+.my-projects {
+  color: #000000;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 12px;
+}
+
+a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #005fff;
+}
+
+span {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.my-works {
+  margin-top: -8px;
+}
+
+.work-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.work-site {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.date {
+  margin-top: -12px;
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.my-experience {
+  color: #595959;
+  margin-top: -8px;
+  padding-left: 16px;
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.experience-li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.education {
+  padding-top: 12px;
+  margin-bottom: 20px;
+}
+
+.university {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+  margin-top: 8px;
+  margin-bottom: -12px;
+}
+
+.university-site {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+  text-decoration: none;
+}
+
+h5 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+aside {
+  width: 300px;
+  padding: 40px;
+  background: #e0ebfe;
+  border-radius: 0px;
+}
+
+.contucts {
+  margin-top: 48px;
+}
+
+.my-contacts,
+.skills {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #161d2a;
+}
+
+p {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  margin-bottom: -12px;
+}
+
+.my-phone {
+  margin-left: 8px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  text-decoration: none;
+}
+
+.my-email {
+  margin-left: 8px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #2979ff;
+}
+
+.tech-skills {
+  margin-top: 48px;
+}
+
+ul {
+  padding-top: 0;
+  padding-left: 16px;
+}
+
+li {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #6d9bf5;
+}
+
+.skills-li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+
+.soft-skills {
+  margin-top: 44px;
+}
